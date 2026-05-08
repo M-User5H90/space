@@ -1,2 +1,0 @@
-# space
-A python game
